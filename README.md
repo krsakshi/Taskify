@@ -3,6 +3,5 @@
 <h1><P>This is How it Looks</P></h1>
 <img src="Image.png" alt=" Image ">
 <!-- LICENSE -->
-## License
-
-Distributed under the MIT License. Click [https://github.com/krsakshi/To-do-app/blob/main/LICENSE.md] for more information.
+<h2>License</h2>
+Distributed under the MIT License. Click [https://github.com/krsakshi/Taskify/blob/main/LICENSE.md] for more information.
